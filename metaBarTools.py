@@ -136,7 +136,7 @@ class metaBar_PreX:
 
         # aggregate platefile
         useCol = list(range(colranges[0], colranges[-1]))
-        plate = pd.read_excel(platefile, sheet_name=sheetname, usecols=useCol, names=colnames, dtype='object')
+        plate = pd.read_excel(platefile, sheet_name=sheetname, usecols=useCol, names=colnames, dtype='object', engine="openpyxl")
 
         # remove blank lines
         plate.dropna(axis=0, inplace=True)
@@ -218,7 +218,7 @@ class metaBar_PreX:
         """)
         # aggregate platefile
         useCol = list(range(colranges[0], colranges[-1]))
-        plate = pd.read_excel(platefile, sheet_name=sheetname, usecols=useCol, names=colnames, dtype='object')
+        plate = pd.read_excel(platefile, sheet_name=sheetname, usecols=useCol, names=colnames, dtype='object', engine="openpyxl")
 
         # remove blank lines
         plate.dropna(axis=0, inplace=True)
