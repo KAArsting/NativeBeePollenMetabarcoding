@@ -1,0 +1,558 @@
+#SampleID	Site	Location	Flower	Batch
+48-28	ZUM NP5	ZUM	Lupinus sericeus	1
+49-29	ZUM NP5	ZUM	Frasera albicaulis	1
+588-499	RDO 8	RDO	Centaurea diffusa	1
+589-500	RDO 8	RDO	Machaeranthera canescens	1
+Plate-1-Blank	Plate-Blank	Plate-Blank	Plate-Blank	1
+BP1-1	Star 3 DE	Star	Monardella odoratissima	1
+BP1-2	Star 3 DE	Star	Monardella odoratissima	1
+BP1-3	Star 3 DE	Star	Monardella odoratissima	1
+BP2-1	Star 3 None	Star	Sidalcea oregana	1
+BP2-2	Star 3 None	Star	Sidalcea oregana	1
+BP2-3	Star 3 None	Star	Sidalcea oregana	1
+BP3-1	Star 3 DE	Star	Hypericum perforatum	1
+BP3-2	Star 3 DE	Star	Hypericum perforatum	1
+BP3-3	Star 3 DE	Star	Hypericum perforatum	1
+BP4-1	Star 3 DE	Star	Hypericum perforatum	1
+BP4-2	Star 3 DE	Star	Hypericum perforatum	1
+BP4-3	Star 3 DE	Star	Hypericum perforatum	1
+BP5-1	Star 3 DE	Star	Monardella odoratissima	1
+BP5-2	Star 3 DE	Star	Monardella odoratissima	1
+BP5-3	Star 3 DE	Star	Monardella odoratissima	1
+BP6-1	Star 2 DE	Star	Solidago missouriensis	1
+BP6-2	Star 2 DE	Star	Solidago missouriensis	1
+BP6-3	Star 2 DE	Star	Solidago missouriensis	1
+BP7-1	Star 3 LS	Star	Solidago missouriensis	1
+BP7-2	Star 3 LS	Star	Solidago missouriensis	1
+BP7-3	Star 3 LS	Star	Solidago missouriensis	1
+BP_8-1	Star 2 LS	Star	Dianthus armeria	1
+BP_8-2	Star 2 LS	Star	Dianthus armeria	1
+BP_8-3	Star 2 LS	Star	Dianthus armeria	1
+BP_9-1	Star 3 DE	Star	Monardella odoratissima	1
+BP_9-2	Star 3 DE	Star	Monardella odoratissima	1
+BP_9-3	Star 3 DE	Star	Monardella odoratissima	1
+BP_10-1	Star 5 LS	Star	Ragwort	1
+BP_10-2	Star 5 LS	Star	Ragwort	1
+BP_10-3	Star 5 LS	Star	Ragwort	1
+BP_11-1	Star 2 None	Star	Symphiotrichum spathalatum	1
+BP_11-2	Star 2 None	Star	Symphiotrichum spathalatum	1
+BP_11-3	Star 2 None	Star	Symphiotrichum spathalatum	1
+BP_12-1	Star 5 None	Star	Symphiotrichum spathalatum	1
+BP_12-2	Star 5 None	Star	Symphiotrichum spathalatum	1
+BP_12-3	Star 5 None	Star	Symphiotrichum spathalatum	1
+BP_13-1	Star 5 None	Star	Hypericum perforatum	1
+BP_13-2	Star 5 None	Star	Hypericum perforatum	1
+BP_13-3	Star 5 None	Star	Hypericum perforatum	1
+TM_1	TM	Positive	Thermopsis montana	1
+TM_2	TM	Positive	Thermopsis montana	1
+TM_3	TM	Positive	Thermopsis montana	1
+SO_1	SO	Positive	Sidalcea oregana	1
+SO_2	SO	Positive	Sidalcea oregana	1
+SO_3	SO	Positive	Sidalcea oregana	1
+CV_1	OA	Positive	Onopordum acanthium	1
+CV_2	OA	Positive	Onopordum acanthium	1
+CV_3	OA	Positive	Onopordum acanthium	1
+VC_3	VV	Positive	Vicia villosa	1
+VC_1	VV	Positive	Vicia villosa	1
+VC_2	VV	Positive	Vicia villosa	1
+PG_1	PG	Positive	Potentilla gracilis	1
+PG_2	PG	Positive	Potentilla gracilis	1
+PG_3	PG	Positive	Potentilla gracilis	1
+MIX_1-1	MIX1	Positive	Mixture	1
+MIX_1-2	MIX1	Positive	Mixture	1
+MIX_1-3	MIX1	Positive	Mixture	1
+MIX_2-1	MIX2	Positive	Mixture	1
+MIX_2-2	MIX2	Positive	Mixture	1
+MIX_2-3	MIX2	Positive	Mixture	1
+MIX_3-1	MIX3	Positive	Mixture	1
+MIX_3-2	MIX3	Positive	Mixture	1
+MIX_3-3	MIX3	Positive	Mixture	1
+MIX_4-1	MIX4	Positive	Mixture	1
+MIX_4-2	MIX4	Positive	Mixture	1
+MIX_4-3	MIX4	Positive	Mixture	1
+MIX_5-1	Mix5	Positive	Mixture	1
+MIX_5-2	Mix5	Positive	Mixture	1
+MIX_5-3	Mix5	Positive	Mixture	1
+5-5	ZUM 2 CNTL	ZUM	Castilleja lutescens	1
+6-6	ZUM 2 CNTL	ZUM	Frasera albicaulis	1
+7-11-7	ZUM 2 CNTL	ZUM	Frasera albicaulis	1
+12-8	ZUM 2 GRAZ	ZUM	Frasera albicaulis	1
+13-9	ZUM 2 GRAZ	ZUM	Lupinus sericeus	1
+14-18-10	ZUM 2 GRAZ	ZUM	Frasera albicaulis	1
+19-11	ZUM 3 GRAZ	ZUM	Toxicoscordion venenosum	1
+20-12	ZUM 3 GRAZ	ZUM	Geranium viscosissimum	1
+21-25-13	ZUM 3 GRAZ	ZUM	Lupinus caudatus	1
+26-14	ZUM 3 CNTL	ZUM	Lupinus spp.	1
+27-15	ZUM 3 CNTL	ZUM	Potentilla gracilis	1
+28-36-16	ZUM 3 CNTL	ZUM	Potentilla gracilis	1
+38-18	ZUM NP5	ZUM	Frasera albicaulis	1
+39-19	ZUM NP5	ZUM	Frasera albicaulis	1
+40-20	ZUM NP5	ZUM	Delphinium nuttallianum	1
+41-21	ZUM NP5	ZUM	Lupinus spp.	1
+42-22	ZUM NP5	ZUM	Lupinus spp.	1
+43-23	ZUM NP5	ZUM	Frasera albicaulis	1
+44-24	ZUM NP5	ZUM	Frasera albicaulis	1
+45-25	ZUM NP5	ZUM	Delphinium nuttallianum	1
+46-26	ZUM NP5	ZUM	Frasera albicaulis	1
+47-27	ZUM NP5	ZUM	Lupinus caudatus	1
+Blank_I	Blank	Blank	Blank	1
+PCR_Neg_2	PCR_Neg	PCR_Neg	PCR_Neg	1
+Plate-2-Blank	Plate-Blank	Plate-Blank	Plate-Blank	1
+50-30	ZUM NP5	ZUM	Frasera albicaulis	1
+51-31	ZUM NP3	ZUM	Lupinus sericeus	1
+52-32	ZUM NP3	ZUM	Lupinus sericeus	1
+53-33	ZUM NP3	ZUM	Potentilla gracilis	1
+54-55-34	ZUM NP3	ZUM	Potentilla gracilis	1
+56-57-35	ZUM NP3	ZUM	Potentilla gracilis	1
+58-59-36	ZUM NP3	ZUM	Potentilla gracilis	1
+61-38	ZUM NP3	ZUM	Potentilla gracilis	1
+62-39	ZUM NP3	ZUM	Potentilla gracilis	1
+63-40	ZUM NP3	ZUM	Potentilla gracilis	1
+64-41	ZUM NP4	ZUM	Lupinus sericeus	1
+65-42	ZUM NP4	ZUM	Frasera albicaulis	1
+66-68-43	ZUM NP4	ZUM	Potentilla gracilis	1
+69-44	ZUM NP4	ZUM	Potentilla gracilis	1
+70-45	ZUM NP4	ZUM	Potentilla gracilis	1
+71-46	ZUM NP4	ZUM	Lupinus caudatus	1
+73-48	ZUM NP4	ZUM	Frasera albicaulis	1
+74-49	ZUM NP4	ZUM	Arnica sororia	1
+75-50	Star 3 LS	Star	Eriogonum heracleoides	1
+76-51	Star 3 LS	Star	Potentilla arguta	1
+78-53	Star 3 LS	Star	Potentilla gracilis	1
+79-54	Star 5 All	Star	Lupinus spp.	1
+80-55	Star 5 All	Star	Thermopsis montana	1
+81-56	Star 5 All	Star	Polemonium occidentale	1
+82-57	Star 5 All	Star	Potentilla gracilis	1
+83-58	Star 5 All	Star	Thermopsis montana	1
+84-59	Star 5 All	Star	Lupinus sericeus	1
+85-60	Star 5 All	Star	Thermopsis montana	1
+87-62	Star 5 All	Star	Potentilla gracilis	1
+88-63	Star 5 All	Star	Thermopsis montana	1
+89-64	Star 5 All	Star	Potentilla gracilis	1
+90-65	Star 2 DE	Star	Potentilla arguta	1
+92-67	Star 2 DE	Star	Potentilla arguta	1
+93-94-68	Star 2 DE	Star	Potentilla gracilis	1
+95-69	Star 2 DE	Star	Potentilla gracilis	1
+96-70	Star 2 DE	Star	Vicia villosa	1
+98-72	Star 2 DE	Star	Potentilla gracilis	1
+99-73	Star 2 All	Star	Potentilla gracilis	1
+100-74	Star 2 All	Star	Potentilla gracilis	1
+101-75	Star 2 All	Star	Penstemon procerus	1
+102-76	Star 2 All	Star	Potentilla gracilis	1
+103-77	Star 2 All	Star	Potentilla gracilis	1
+105-79	Star 5 All	Star	Thermopsis montana	1
+106-80	Star 5 LS	Star	Potentilla gracilis	1
+107-81	Star 5 LS	Star	Potentilla gracilis	1
+108-82	Star 5 LS	Star	Potentilla gracilis	1
+109-83	Star 5 LS	Star	Penstemon procerus	1
+110-84	Star 5 LS	Star	Penstemon procerus	1
+111-85	Star 5 LS	Star	Potentilla gracilis	1
+112-86	Star 5 LS	Star	Potentilla gracilis	1
+113-87	Star 5 LS	Star	Collomia linearis	1
+114-88	Star 5 LS	Star	Picea engelmannii	1
+115-89	Star 3 DE	Star	Tragopogon dubius	1
+116-90	Star 3 DE	Star	Potentilla gracilis	1
+117-91	Star 3 DE	Star	Potentilla gracilis	1
+119-93	Star 3 DE	Star	Potentilla arguta	1
+120-94	Star 3 DE	Star	Potentilla gracilis	1
+121-95	Star 3 DE	Star	Potentilla arguta	1
+122-96	Star 3 DE	Star	Thermopsis montana	1
+123-97	Star 2 LS	Star	Potentilla arguta	1
+124-98	Star 2 LS	Star	Potentilla gracilis	1
+125-99	Star 2 LS	Star	Potentilla arguta	1
+126-100	Star 2 LS	Star	Potentilla gracilis	1
+127-101	Star 2 LS	Star	Potentilla gracilis	1
+128-102	Star 2 LS	Star	Potentilla gracilis	1
+129-103	Star 2 LS	Star	Triteleia grandiflora	1
+130-104	Star 2 None	Star	Potentilla gracilis	1
+131-105	Star 2 None	Star	Potentilla gracilis	1
+132-106	Star 2 None	Star	Potentilla gracilis	1
+133-107	Star 2 None	Star	Potentilla gracilis	1
+134-108	Star 2 None	Star	Potentilla gracilis	1
+135-109	Star 2 None	Star	Potentilla gracilis	1
+136-110	Star 2 None	Star	Potentilla gracilis	1
+137-111	Star 5 None	Star	Penstemon procerus	1
+138-112	Star 5 None	Star	Potentilla gracilis	1
+139-113	Star 5 None	Star	Penstemon procerus	1
+140-114	Star 5 None	Star	Penstemon procerus	1
+141-115	Star 5 None	Star	Potentilla gracilis	1
+142-116	Star 5 None	Star	Penstemon procerus	1
+143-117	Star 5 None	Star	Penstemon procerus	1
+144-118	Star 5 None	Star	Potentilla gracilis	1
+145-119	Star 5 None	Star	Penstemon procerus	1
+146-120	Star 5 None	Star	Potentilla gracilis	1
+147-121	Star 5 None	Star	Penstemon procerus	1
+148-122	Star 5 DE	Star	Penstemon procerus	1
+149-123	Star 5 DE	Star	Potentilla gracilis	1
+150-124	Star 5 DE	Star	Potentilla gracilis	1
+151-125	Star 5 DE	Star	Penstemon procerus	1
+152-126	Star 5 DE	Star	Penstemon procerus	1
+153-127	Star 5 DE	Star	Potentilla arguta	1
+154-128	Star 5 DE	Star	Potentilla arguta	1
+155-129	RDO 1	RDO	Sisymbrium altissimum	1
+157-131	RDO 1	RDO	Sisymbrium altissimum	1
+Blank_II	Blank	Blank	Blank	1
+PCR_Neg_3	PCR_Neg	PCR_Neg	PCR_Neg	1
+Plate-3-Blank	Plate-Blank	Plate-Blank	Plate-Blank	1
+158-132	RDO 1	RDO	Sisymbrium altissimum	1
+159-133	RDO 1	RDO	Sisymbrium altissimum	1
+160-134	RDO 1	RDO	Sisymbrium altissimum	1
+161-135	RDO 1	RDO	Sisymbrium altissimum	1
+162-163-136	RDO 2	RDO	Centaurea diffusa	1
+164-137	RDO 2	RDO	Centaurea diffusa	1
+165-138	RDO 2	RDO	Centaurea diffusa	1
+166-139	RDO 2	RDO	Centaurea diffusa	1
+167-140	RDO 2	RDO	Centaurea diffusa	1
+168-141	RDO 2	RDO	Centaurea diffusa	1
+169-142	RDO 3	RDO	Centaurea diffusa	1
+170-143	RDO 3	RDO	Psoralidium lanceolatum	1
+171-144	RDO 3	RDO	Psoralidium lanceolatum	1
+173-146	RDO 3	RDO	Centaurea diffusa	1
+174-147	RDO 3	RDO	Psoralidium lanceolatum	1
+175-148	RDO 3	RDO	Psoralidium lanceolatum	1
+176-149	RDO 3	RDO	Centaurea diffusa	1
+177-150	RDO 3	RDO	Centaurea diffusa	1
+178-151	RDO 4	RDO	Onopordum acanthium	1
+179-152	RDO 4	RDO	Onopordum acanthium	1
+180-153	RDO 4	RDO	Onopordum acanthium	1
+181-154	RDO 4	RDO	Onopordum acanthium	1
+182-155	RDO 4	RDO	Onopordum acanthium	1
+183-156	RDO 4	RDO	Onopordum acanthium	1
+184-157	RDO 4	RDO	Onopordum acanthium	1
+185-158	RDO 5	RDO	Centaurea diffusa	1
+186-159	RDO 5	RDO	Centaurea diffusa	1
+187-160	RDO 5	RDO	Psoralidium lanceolatum	1
+188-189-161	RDO 5	RDO	Centaurea diffusa	1
+190-162	RDO 5	RDO	Psoralidium lanceolatum	1
+191-163	RDO 5	RDO	Centaurea diffusa	1
+192-164	RDO 6	RDO	Sisymbrium altissimum	1
+193-165	RDO 6	RDO	Sisymbrium loeselii 	1
+194-166	RDO 6	RDO	Sisymbrium altissimum	1
+196-168	RDO 6	RDO	Sisymbrium loeselii 	1
+197-169	RDO 6	RDO	Sisymbrium loeselii 	1
+198-170	RDO 6	RDO	Sisymbrium loeselii 	1
+200-172	RDO 6	RDO	Sisymbrium altissimum	1
+201-202-173	RDO 7	RDO	Centaurea solstitialis	1
+203-204-174	RDO 7	RDO	Centaurea solstitialis	1
+205-175	RDO 7	RDO	Ground	1
+206-176	RDO 7	RDO	Centaurea solstitialis	1
+207-208-177	RDO 7	RDO	Ground	1
+209-178	RDO 8	RDO	Centaurea diffusa	1
+210-179	RDO 8	RDO	Achillea millefolium 	1
+211-216-180	RDO 8	RDO	Centaurea diffusa	1
+217-181	ZUM NP3	ZUM	Lupinus spp. 	1
+218-182	ZUM NP3	ZUM	Arnica sororia	1
+219-183	ZUM NP3	ZUM	Lupinus sericeus	1
+220-184	ZUM NP3	ZUM	Lupinus sericeus	1
+221-185	ZUM NP3	ZUM	Potentilla gracilis	1
+222-186	ZUM NP3	ZUM	Potentilla gracilis	1
+223-187	ZUM NP3	ZUM	Achillea millefolium 	1
+224-188	ZUM NP4	ZUM	Orthocarpus tenuifolius	1
+225-189	ZUM NP4	ZUM	Sisymbrium altissimum	1
+226-190	ZUM NP4	ZUM	Eriogonum heracleoides	1
+227-191	ZUM NP4	ZUM	Arnica sororia	1
+228-192	ZUM NP4	ZUM	Orthocarpus tenuifolius	1
+229-193	ZUM NP4	ZUM	Eriogonum heracleoides	1
+231-195	ZUM NP5	ZUM	Arenaria congesta	1
+232-233-196	ZUM NP5	ZUM	Calichortus eurycarpus	1
+234-235-197	ZUM NP5	ZUM	Sidalcea oregana	1
+236-198	ZUM NP5	ZUM	Arnica sororia	1
+237-199	ZUM NP5	ZUM	Potentilla gracilis	1
+238-239-200	ZUM NP5	ZUM	Potentilla gracilis	1
+240-242-201	ZUM NP5	ZUM	Vicia villosa	1
+243-202	ZUM NP5	ZUM	Potentilla gracilis	1
+244-203	ZUM NP5	ZUM	Calichortus eurycarpus	1
+248-205	ZUM NP5	ZUM	Calichortus eurycarpus	1
+251-207	ZUM 2 CNTL	ZUM	Geranium viscosissimum	1
+252-208	ZUM 2 CNTL	ZUM	Potentilla gracilis	1
+253-209	ZUM 2 CNTL	ZUM	Lupinus sericeus	1
+254-210	ZUM 2 CNTL	ZUM	Geranium viscosissimum	1
+255-211	ZUM 2 CNTL	ZUM	Lupinus sericeus	1
+256-212	ZUM 2 CNTL	ZUM	Arnica sororia	1
+257-213	ZUM 2 CNTL	ZUM	Lupinus spp.	1
+258-259-214	ZUM 2 CNTL	ZUM	Lupinus spp.	1
+260-215	ZUM 2 GRAZ	ZUM	Lupinus seracius	1
+261-216	ZUM 2 GRAZ	ZUM	Lupinus spp.	1
+262-217	ZUM 2 GRAZ	ZUM	Flying	1
+263-218	ZUM 2 GRAZ	ZUM	Orthocarpus tenuifolius	1
+264-219	ZUM 2 GRAZ	ZUM	Orthocarpus tenuifolius	1
+265-220	ZUM 2 GRAZ	ZUM	Orthocarpus tenuifolius	1
+266-221	ZUM 2 GRAZ	ZUM	Orthocarpus tenuifolius	1
+267-268-222	ZUM 3 CNTL	ZUM	Lupinus spp.	1
+269-223	ZUM 3 CNTL	ZUM	Lupinus leucophyllus	1
+270-224	ZUM 3 CNTL	ZUM	Clarkia pulchella	1
+271-225	ZUM 3 CNTL	ZUM	Sidalcea oregana	1
+272-226	ZUM 3 CNTL	ZUM	Lupinus leucophyllus	1
+273-227	ZUM 3 CNTL	ZUM	Lupinus leucophyllus	1
+274-228	ZUM 3 CNTL	ZUM	Lupinus leucophyllus	1
+275-229	ZUM 3 GRAZ	ZUM	Flying	1
+276-277-230	ZUM 3 GRAZ	ZUM	Clarkia pulchella	1
+Blank_III	Blank	Blank	Blank	1
+PCR_Neg_4	PCR_Neg	PCR_Neg	PCR_Neg	1
+Plate-4-Blank	Plate-Blank	Plate-Blank	Plate-Blank	1
+278-231	ZUM 3 GRAZ	ZUM	Hieracium cynoglossoides	2
+279-232	ZUM 3 GRAZ	ZUM	Clarkia pulchella	2
+280-233	ZUM 3 GRAZ	ZUM	Arnica sororia	2
+281-234	ZUM 3 GRAZ	ZUM	Clarkia pulchella	2
+283-235	Star 2 LS	Star	Solidago missouriensis	2
+284-236	Star 2 LS	Star	Solidago missouriensis	2
+285-237	Star 2 LS	Star	Erigeron corymbosis	2
+286-238	Star 2 LS	Star	No plant identified	2
+287-239	Star 2 LS	Star	Erigeron corymbosis	2
+288-240	Star 2 LS	Star	Erigeron corymbosis	2
+289-241	Star 2 LS	Star	Trifolium wormskioldii	2
+290-242	Star 2 None	Star	Monardella odoritissima	2
+291-243	Star 2 None	Star	Monardella odoritissima	2
+292-244	Star 2 None	Star	Erigeron corymbosis	2
+293-245	Star 2 None	Star	Erigeron corymbosis	2
+294-246	Star 2 None	Star	Potentilla gracilis	2
+295-247	Star 2 None	Star	Monardella odoritissima	2
+296-248	Star 2 None	Star	Monardella odoritissima	2
+297-249	Star 2 All	Star	Hypericum perforatum	2
+298-250	Star 2 All	Star	Hypericum perforatum	2
+299-251	Star 2 All	Star	Monardella odoritissima	2
+300-252	Star 2 All 	Star	Hypericum perforatum	2
+301-253	Star 2 All	Star	Monardella odoritissima	2
+302-254	Star 2 All	Star	Monardella odoritissima	2
+303-255	Star 2 All	Star	Monardella odoritissima	2
+304-256	Star 2 DE	Star	Erigeron corymbosis	2
+305-257	Star 2 DE	Star	Monardella odoritissima	2
+306-258	Star 2 DE	Star	Monardella odoritissima	2
+307-259	Star 2 DE	Star	Hypericum perforatum	2
+308-260	Star 2 DE	Star	Symphiotrichum spathulatum	2
+310-262	Star 2 DE	Star	Erigeron corymbosis	2
+311-263	Star 3 DE	Star	Solidago missouriensis	2
+312-264	Star 3 DE	Star	Monardella odoritissima	2
+313-319-265	Star 3 DE	Star	Solidago missouriensis	2
+320-266	Star 3 LS	Star	Monardella odoritissima	2
+321-323-267	Star 3 LS	Star	Hypericum perforatum	2
+324-268	Star 3 LS	Star	Solidago missouriensis	2
+325-269	Star 3 LS	Star	Solidago missouriensis	2
+326-270	Star 3 LS	Star	Solidago missouriensis	2
+327-271	Star 3 LS	Star	Erigeron speciosus	2
+328-272	Star 5 None	Star	no plant identified	2
+329-273	Star 5 None	Star	Solidago missouriensis	2
+330-274	Star 5 None	Star	Solidago missouriensis	2
+331-275	Star 5 None	Star	no plant identified	2
+332-276	Star 5 None	Star	Solidago missouriensis	2
+333-277	Star 5 None	Star	Solidago missouriensis	2
+334-278	Star 5 None	Star	Solidago missouriensis	2
+335-279	Star 5 DE	Star	Solidago missouriensis	2
+336-280	Star 5 DE	Star	Solidago missouriensis	2
+337-281	Star 5 DE	Star	Solidago missouriensis	2
+339-283	Star 5 DE	Star	Solidago missouriensis	2
+340-284	Star 5 DE	Star	Solidago missouriensis	2
+341-285	Star 5 DE	Star	Solidago missouriensis	2
+342-286	Star 5 LS	Star	Senecio serra	2
+343-287	Star 5 LS	Star	Sidalcea oregana	2
+344-288	Star 5 LS	Star	Sidalcea oregana	2
+345-289	Star 5 LS	Star	Solidago missouriensis	2
+346-290	Star 5 LS	Star	Achillea millefolium 	2
+347-291	Star 5 LS	Star	Achillea millefolium 	2
+348-292	Star 5 LS	Star	Achillea millefolium 	2
+349-293	Star 5 LS	Star	Solidago missouriensis	2
+350-294	Star 5 LS	Star	Solidago missouriensis	2
+351-295	Star 5 All	Star	no plant identified	2
+352-296	Star 5 All	Star	Monardella odoritissima	2
+353-297	Star 5 All	Star	Solidago missouriensis	2
+354-298	Star 5 All	Star	Solidago missouriensis	2
+355-299	Star 5 All	Star	Monardella odoritissima	2
+356-300	Star 5 All	Star	Potentilla gracilis	2
+357-301	Star 5 All	Star	Solidago missouriensis	2
+358-302	ZUM 2 GRAZ	ZUM	Gindelia nana	2
+359-303	ZUM 2 GRAZ	ZUM	Gindelia nana	2
+360-304	ZUM 2 GRAZ	ZUM	Gindelia nana	2
+361-305	ZUM 2 GRAZ	ZUM	Erigeron pumulus	2
+362-306	ZUM 2 GRAZ	ZUM	Gindelia nana	2
+363-307	ZUM 2 GRAZ	ZUM	Gindelia nana	2
+364-308	ZUM 2 CNTL	ZUM	Erigeron pumulus	2
+365-309	ZUM 2 CNTL	ZUM	Cirsium brevifolium	2
+367-311	ZUM 2 CNTL	ZUM	Cirsium brevifolium	2
+368-312	ZUM 2 CNTL	ZUM	Erigeron pumulus	2
+369-313	ZUM 3 CNTL	ZUM	Erigeron pumulus	2
+370-314	ZUM 3 CNTL	ZUM	Erigeron pumulus	2
+371-315	ZUM 3 GRAZ	ZUM	Gindelia nana	2
+372-316	ZUM 3 GRAZ	ZUM	Geranium spp. 	2
+373-374-592-317	ZUM 2 GRAZ	ZUM	Gindelia nana	2
+375-376-318	ZUM 2 GRAZ	ZUM	Gindelia nana	2
+377-319	ZUM 2 GRAZ	ZUM	Solidago missouriensis	2
+378-320	ZUM 2 GRAZ	ZUM	Erigeron pumulus	2
+379-321	ZUM 3 CNTL	ZUM	Erigeron pumulus	2
+380-322	ZUM 3 CNTL	ZUM	Erigeron pumulus	2
+381-384-323	ZUM 3 CNTL	ZUM	Erigeron pumulus	2
+385-324	ZUM 3 CNTL	ZUM	Erigeron pumulus	2
+386-325	ZUM 3 CNTL	ZUM	Erigeron pumulus	2
+387-391-326	ZUM 2 CNTL	ZUM	Erigeron pumulus	2
+Blank_IV	Blank	Blank	Blank	2
+PCR_Neg_5	PCR_Neg	PCR_Neg	PCR_Neg	2
+Plate-5-Blank	Plate-Blank	Plate-Blank	Plate-Blank	2
+392-327	ZUM 2 CNTL	ZUM	Erigeron pumulus	2
+393-328	ZUM 2 CNTL	ZUM	Solidago missouriensis	2
+394-329	ZUM 3 GRAZ	ZUM	Cirsium brevifolium	2
+395-330	ZUM 3 GRAZ	ZUM	Cirsium brevifolium	2
+397-332	ZUM 3 GRAZ	ZUM	Un-identified	2
+398-333	ZUM 3 GRAZ	ZUM	Cirsium brevifolium	2
+399-400-334	ZUM 3 GRAZ	ZUM	Un-identified	2
+402-336	RDO 1	RDO	Centaurea diffusa	2
+403-337	RDO 1	RDO	Centaurea diffusa	2
+404-338	RDO 1	RDO	Centaurea diffusa	2
+405-339	RDO 1	RDO	Centaurea diffusa	2
+406-340	RDO 1 	RDO	Centaurea diffusa	2
+407-341	RDO 1	RDO	Centaurea diffusa	2
+408-342	RDO 1	RDO	Centaurea diffusa	2
+409-343	RDO 2	RDO	Centaurea diffusa	2
+410-344	RDO 2	RDO	Centaurea diffusa	2
+411-345	RDO 2	RDO	Centaurea diffusa	2
+412-346	RDO 2	RDO	Centaurea diffusa	2
+413-347	RDO 2	RDO	Centaurea diffusa	2
+414-348	RDO 2	RDO	Centaurea diffusa	2
+415-349	RDO 2	RDO	Centaurea diffusa	2
+416-350	RDO 3	RDO	Gutierrezia sarothrae	2
+417-351	RDO 3	RDO	Gutierrezia sarothrae	2
+418-352	RDO 3	RDO	Gutierrezia sarothrae	2
+419-353	RDO 3	RDO	Gutierrezia sarothrae	2
+420-354	RDO 3	RDO	Gutierrezia sarothrae	2
+421-355	RDO 3	RDO	Gutierrezia sarothrae	2
+422-356	RDO 3	RDO	Gutierrezia sarothrae	2
+423-357	RDO 4	RDO	Centaurea diffusa	2
+424-358	RDO 4	RDO	Centaurea diffusa	2
+425-359	RDO 4	RDO	Centaurea diffusa	2
+426-360	RDO 4	RDO	Centaurea diffusa	2
+427-361	RDO 4	RDO	Centaurea diffusa	2
+428-362	RDO 4	RDO	Centaurea diffusa	2
+429-363	RDO 4	RDO	Centaurea diffusa	2
+430-591-364	RDO 5	RDO	Centaurea diffusa	2
+431-365	RDO 5	RDO	Centaurea diffusa	2
+432-366	RDO 5	RDO	Centaurea diffusa	2
+433-367	RDO 5	RDO	Centaurea diffusa	2
+434-368	RDO 5	RDO	Centaurea diffusa	2
+435-369	RDO 5	RDO	Centaurea diffusa	2
+436-370	RDO 5	RDO	Centaurea diffusa	2
+437-371	RDO 6	RDO	Centaurea solstitialis	2
+438-372	RDO 6	RDO	Centaurea diffusa	2
+439-373	RDO 6	RDO	Centaurea diffusa	2
+441-375	RDO 6	RDO	Centaurea diffusa	2
+442-376	RDO 6	RDO	Centaurea solstitialis	2
+443-377	RDO 6	RDO	Centaurea solstitialis	2
+444-378	RDO 7	RDO	Centaurea diffusa	2
+445-379	RDO 7	RDO	Salsola kali	2
+446-380	RDO 7	RDO	Centaurea solstitialis	2
+447-381	RDO 7	RDO	Centaurea solstitialis	2
+448-382	RDO 7	RDO	Centaurea solstitialis	2
+449-383	RDO 7	RDO	Centaurea solstitialis	2
+450-384	RDO 7	RDO	Centaurea solstitialis	2
+451-385	RDO 8	RDO	Centaurea solstitialis	2
+452-386	RDO 8	RDO	Centaurea solstitialis	2
+453-590-387	RDO 8 	RDO	Centaurea diffusa	2
+454-388	RDO 8	RDO	Centaurea diffusa	2
+455-389	RDO 8	RDO	Centaurea diffusa	2
+456-390	RDO 8	RDO	Centaurea solstitialis	2
+457-458-391	Star 3 DE	Star	Monardella odoritissima	2
+459-392	Star 3 DE	Star	Grindellia nana	2
+460-393	Star 3 DE	Star	Monardella odoritissima	2
+461-394	Star 2 All	Star	Onopordum acanthium	2
+462-395	Star 2 LS	Star	Mentha arvensis	2
+463-396	Star 2 LS	Star	Symphiotrichum spathulatum	2
+464-466-397	Star 2 LS	Star	Onopordum acanthium	2
+467-398	Star 2 None	Star	Erigeron corymbosis	2
+468-399	Star 2 None	Star	Trifolium pratense	2
+469-472-400	Star 3 LS	Star	Onopordum acanthium	2
+473-401	Star 3 LS	Star	Onopordum acanthium	2
+474-402	Star 3 LS	Star	Onopordum acanthium	2
+475-476-403	Star 5 DE	Star	Solidago missouriensis	2
+477-404	Star 5 DE	Star	Solidago missouriensis	2
+478-405	Star 5 DE	Star	Solidago missouriensis	2
+479-483-406	Star 5 All	Star	Symphiotrichum spathulatum	2
+484-407	Star 5 All	Star	Erigeron corymbosis	2
+486-491-409	Star 5 LS	Star	Solidago missouriensis	2
+492-410	Star 5 LS	Star	Solidago missouriensis	2
+493-411	Star 5 LS	Star	Solidago missouriensis	2
+494-412	Star 5 None	Star	Trifolium wormenskii	2
+495-413	Star 5 None	Star	Solidago missouriensis	2
+496-500-414	Star 5 None	Star	Solidago missouriensis	2
+501-415	Star 5 DE	Star	Trifolium spp.	2
+502-416	Star 5 DE	Star	Achillea millefolium 	2
+503-417	Star 5 DE	Star	Symphiotrichum spathulatum	2
+504-418	Star 3 DE	Star	Cirsium arvense	2
+505-419	Star 3 DE	Star	Solidago missouriensis	2
+506-420	Star 3 DE	Star	Solidago missouriensis	2
+507-421	Star 3 DE	Star	Solidago missouriensis	2
+508-422	Star 3 DE	Star	Solidago missouriensis	2
+509-423	Star 2 None	Star	Erigeron corymbosis	2
+Blank_V	Blank	Blank	Blank	2
+PCR_Neg_6	PCR_Neg	PCR_Neg	PCR_Neg	2
+Plate-6-Blank	Plate-Blank	Plate-Blank	Plate-Blank	2
+510-424	Star 2 None	Star	Onopordum acanthium	2
+511-425	Star 2 None	Star	Onopordum acanthium	2
+512-426	Star 3 DE	Star	Cirsium arvense	2
+513-427	Star 3 DE	Star	Solidago missouriensis	2
+514-428	Star 3 DE	Star	Solidago missouriensis	2
+515-429	Star 2 None	Star	Onopordum acanthium	2
+516-430	Star 2 None	Star	Onopordum acanthium	2
+517-431	Star 2 None	Star	Onopordum acanthium	2
+518-432	Star 2 None	Star	Onopordum acanthium	2
+519-433	Star 2 None	Star	Onopordum acanthium	2
+520-434	Star 2 None	Star	Onopordum acanthium	2
+523-437	Star 2 LS	Star	Onopordum acanthium	2
+524-525-438	Star 2 LS	Star	Onopordum acanthium	2
+526-439	Star 2 LS	Star	Onopordum acanthium	2
+527-440	Star 2 None	Star	Solidago missouriensis	2
+528-441	RDO 1	RDO	Machaeranthera canescens	2
+529-442	RDO 1 	RDO	Machaeranthera canescens	2
+530-443	RDO 1	RDO	Machaeranthera canescens	2
+531-444	RDO 1	RDO	Machaeranthera canescens	2
+532-445	RDO 1	RDO	Machaeranthera canescens	2
+533-446	RDO 1	RDO	Machaeranthera canescens	2
+534-447	RDO 1	RDO	Machaeranthera canescens	2
+535-448	RDO 1 	RDO	Machaeranthera canescens	2
+537-450	RDO 2	RDO	Machaeranthera canescens	2
+538-451	RDO 2	RDO	Machaeranthera canescens	2
+539-452	RDO 2	RDO	Machaeranthera canescens	2
+540-453	RDO 2	RDO	Machaeranthera canescens	2
+541-454	RDO 2	RDO	Machaeranthera canescens	2
+542-455	RDO 2	RDO	Centaurea solstitialis	2
+543-456	RDO 2	RDO	Centaurea diffusa	2
+544-457	RDO 2	RDO	Machaeranthera canescens	2
+545-458	RDO 2	RDO	Machaeranthera canescens	2
+546-459	RDO 3	RDO	Machaeranthera canescens	2
+547-460	RDO 3	RDO	Machaeranthera canescens	2
+548-461	RDO 3	RDO	Machaeranthera canescens	2
+549-462	RDO 3	RDO	Machaeranthera canescens	2
+550-463	RDO 3	RDO	Machaeranthera canescens	2
+551-464	RDO 3	RDO	Centaurea diffusa	2
+552-465	RDO 3	RDO	Centaurea solstitialis	2
+553-466	RDO 3	RDO	Machaeranthera canescens	2
+554-467	RDO 4	RDO	Centaurea solstitialis	2
+555-468	RDO 4	RDO	Centaurea diffusa	2
+556-469	RDO 4	RDO	Centaurea solstitialis	2
+557-470	RDO 4	RDO	Centaurea diffusa	2
+558-471	RDO 4	RDO	Machaeranthera canescens	2
+559-472	RDO 4	RDO	Centaurea solstitialis	2
+560-473	RDO 4	RDO	Centaurea diffusa	2
+561-474	RDO 5	RDO	Centaurea solstitialis	2
+562-475	RDO 5	RDO	Centaurea solstitialis	2
+563-476	RDO 5	RDO	Centaurea solstitialis	2
+564-477	RDO 5	RDO	Centaurea solstitialis	2
+565-478	RDO 5	RDO	Centaurea solstitialis	2
+566-567-479	RDO 5	RDO	Centaurea solstitialis	2
+568-480	RDO 6	RDO	Machaeranthera canescens	2
+569-481	RDO 6	RDO	Machaeranthera canescens	2
+570-482	RDO 6	RDO	no plant identified	2
+571-483	RDO 6	RDO	Machaeranthera canescens	2
+572-484	RDO 6	RDO	Machaeranthera canescens	2
+573-485	RDO 6	RDO	Machaeranthera canescens	2
+574-486	RDO 6	RDO	Machaeranthera canescens	2
+575-487	RDO 6	RDO	Machaeranthera canescens	2
+577-578-593-489	RDO 7	RDO	Machaeranthera canescens	2
+580-491	RDO 7	RDO	Machaeranthera canescens	2
+581-492	RDO 7	RDO	Machaeranthera canescens	2
+582-493	RDO 7	RDO	Machaeranthera canescens	2
+583-494	RDO 8	RDO	Centaurea diffusa	2
+584-495	RDO 8	RDO	Centaurea diffusa	2
+585-496	RDO 8	RDO	Centaurea diffusa	2
+586-497	RDO 8	RDO	Centaurea diffusa	2
+587-498	RDO 8	RDO	Centaurea diffusa	2
+Blank_VI	Blank	Blank	Blank	2
+PCR_Neg_7	PCR_Neg	PCR_Neg	PCR_Neg	2
+PCR_Neg_8	PCR_Neg	PCR_Neg	PCR_Neg	2
+Plate-7-Blank	Plate-Blank	Plate-Blank	Plate-Blank	2
